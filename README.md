@@ -9,7 +9,7 @@ C -> If you want to manage everything at the hardware level (comes after)<br>
 [ROS](https://www.ros.org/)<br>
 [ROS Documentation](https://docs.ros.org/en/humble/index.html)<br>
 
-## Then you must learn how to make your robot react to your environment:
+## Then you must learn how to make your robot perceive to your environment:
 [OpenCV](https://opencv.org/)<br>
 [Point Cloud Library](https://pointclouds.org/)<br>
 
