@@ -31,6 +31,8 @@ Special mention to this repository, very instructive and helpful:
 ## Theoretical aspects, Springer Handbook of Robotics:
 [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507)<br>
 
-## Then you can go in depth with additionnal robotics ressources:
-[Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
-[pinocchio]https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/master/doxygen-html/
+## Then you can go more in depth with additionnal robotics ressources:
+[Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) <br>
+[pinocchio](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/master/doxygen-html/) <br>
+[VISP](https://visp.inria.fr/) <br>
+
