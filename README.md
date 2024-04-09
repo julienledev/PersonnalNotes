@@ -22,8 +22,8 @@ special mention to this repo very instructive and helpfull:
 https://github.com/AtsushiSakai/PythonRobotics <br>
 
 ## Then you can start prospecting for 3D sensors that have a straightforward integration with ROS:
-https://github.com/IntelRealSense/realsense-ros
-https://www.stereolabs.com/docs
+https://github.com/IntelRealSense/realsense-ros <br>
+https://www.stereolabs.com/docs <br>
 
 ## Additionnal Points you can learn of how to use arduino and small sensors:
 http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup <br>
